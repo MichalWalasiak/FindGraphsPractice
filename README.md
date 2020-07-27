@@ -4,4 +4,4 @@ it just after application starts to run.
 
 Application written in java version 11.
 
-Run main method in Task3 class to start program and provide desired pairs of Integers.
+Run main method in Task3 class to start program and provide desired pairs of Integers as an input.
